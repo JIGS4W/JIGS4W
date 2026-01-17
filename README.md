@@ -1,87 +1,72 @@
-# 👋 Hi, I'm Rapeeput (รพีภัทร์)
+# Hi, I'm Rapeeput 👋
 
-🎓 Undergraduate student in Software Engineering at the University of Phayao  
-💻 Backend Developer | Node.js, TypeScript, SQLite  
+Undergraduate student in Software Engineering at the University of Phayao  
+Interested in Backend Development and RESTful API Design  
+
+⬇️ My featured projects are pinned below ⬇️
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
+
+These are my main projects highlighted above.
 
 ### 📦 Shipment CRUD API
-A RESTful API for managing shipment data (Create, Read, Update, Delete)  
-Built with Hono Framework and SQLite  
+RESTful API for managing shipment data using Hono and SQLite.  
+Supports full CRUD operations with a clean service-repository architecture.
 
-🔗 GitHub: https://github.com/JIGS4W/shipment-CRUD  
+🔗 Repository: https://github.com/JIGS4W/shipment-CRUD  
+📄 Full Report: https://docs.google.com/document/d/1DH_DdP_KcoAiS6wv_D6F82-7o9Jl_I3i/edit
 
 ---
 
 ### 👥 Role Management API
-A role and user management system (CRUD API)  
-Built with Node.js and TypeScript  
+Backend system for managing users and roles with permission control.  
+Designed for practicing real-world API structure and database relations.
 
-🔗 GitHub: https://github.com/JIGS4W/CRUD_ROLE  
+🔗 Repository: https://github.com/JIGS4W/CRUD_ROLE  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Node.js
-- TypeScript
-- Hono Framework
-
-**Database**
-- SQLite
-
-**Tools**
-- Git & GitHub
-- Postman
-- VS Code
-
----
-
-## 📄 Project Documentation
-
-Full project report (Google Docs):  
-📘 https://docs.google.com/document/d/1DH_DdP_KcoAiS6wv_D6F82-7o9Jl_I3i/edit  
-
----
-
-## 🌱 Currently Learning
-
-- RESTful API Design
-- Database Design
-- Software Architecture
+- Language: TypeScript, Python  
+- Backend: Node.js, Hono  
+- Database: SQLite  
+- Tools: Git, GitHub, VS Code, DBeaver  
 
 ---
 
 ## 📫 Contact
 
-- Email: rapeeput060448@gmail.com  
 - GitHub: https://github.com/JIGS4W  
+- Email: rapeeput060448@gmail.com  
 
 ---
 
-# 🇹🇭 เกี่ยวกับผม
+# สวัสดีครับ ผมชื่อรพีภัทร์ 👋
 
-🎓 นักศึกษาวิศวกรรมซอฟต์แวร์ มหาวิทยาลัยพะเยา  
-💻 สนใจด้าน Backend Development และการพัฒนา RESTful API  
+นักศึกษาปริญญาตรี สาขาวิศวกรรมซอฟต์แวร์ มหาวิทยาลัยพะเยา  
+สนใจด้าน Backend Development และการพัฒนา RESTful API  
 
 ---
 
-## 🚀 โปรเจคเด่น
+## 📌 โปรเจคเด่น
 
-### 📦 Shipment CRUD API
-ระบบ RESTful API สำหรับจัดการข้อมูลการขนส่ง (เพิ่ม ลบ แก้ไข ดูข้อมูล)  
-พัฒนาด้วย Hono Framework และ SQLite  
+โปรเจคหลักที่ปักหมุดไว้ด้านบน
+
+### 📦 ระบบจัดการขนส่งสินค้า (Shipment CRUD API)
+ระบบ API สำหรับจัดการข้อมูลการขนส่ง พัฒนาด้วย Hono และ SQLite  
+รองรับการทำงานแบบ CRUD ครบถ้วน พร้อมโครงสร้างแยกชั้น Service และ Repository
 
 🔗 GitHub: https://github.com/JIGS4W/shipment-CRUD  
+📄 รายงานฉบับเต็ม: https://docs.google.com/document/d/1DH_DdP_KcoAiS6wv_D6F82-7o9Jl_I3i/edit  
 
 ---
 
-### 👥 Role Management API
-ระบบจัดการสิทธิ์ผู้ใช้ (CRUD Roles และ Users)  
-พัฒนาด้วย Node.js และ TypeScript  
+### 👥 ระบบจัดการสิทธิ์ผู้ใช้ (Role Management API)
+ระบบหลังบ้านสำหรับจัดการผู้ใช้และบทบาทสิทธิ์  
+ออกแบบเพื่อฝึกโครงสร้าง API และความสัมพันธ์ของฐานข้อมูล
 
 🔗 GitHub: https://github.com/JIGS4W/CRUD_ROLE  
 
@@ -89,27 +74,7 @@ Full project report (Google Docs):
 
 ## 🛠 ทักษะด้านเทคโนโลยี
 
-**Backend**
-- Node.js
-- TypeScript
-- Hono Framework
-
-**Database**
-- SQLite
-
-**Tools**
-- Git & GitHub
-- Postman
-- VS Code
-
----
-
-## 🌱 กำลังศึกษาเพิ่มเติม
-
-- การออกแบบ RESTful API
-- การออกแบบฐานข้อมูล
-- Software Architecture
-
----
-
-> Developed by an undergraduate student at the University of Phayao
+- ภาษา: TypeScript, Python  
+- Backend: Node.js, Hono  
+- ฐานข้อมูล: SQLite  
+- เครื่องมือ: Git, GitHub, VS Code, DBeaver  
