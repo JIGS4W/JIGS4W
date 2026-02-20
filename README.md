@@ -17,26 +17,31 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-## 💻 Languages
-![Languages](https://skillicons.dev/icons?i=python,js)
+## Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java)
 
-## 🎨 Frontend
-![Frontend](https://skillicons.dev/icons?i=vue,react,tailwind)
+## Frontend
+![Frontend](https://skillicons.dev/icons?i=vue,tailwind,next,react)
 
-## ⚙️ Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,supabase)
+## Backend
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,supabase,bun,elysia,hono&theme=dark)
 
-## 🗄️ Database
+## Database
 ![Database](https://skillicons.dev/icons?i=mysql,postgres,sqlite)
 
-## ☁️ DevOps / Cloud
+## DevOps / Cloud
 ![DevOps](https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare)
 
-## 🧰 Tools
+## Tools
 ![Tools](https://skillicons.dev/icons?i=vscode,figma)
----
+
+## AI Tools
+![AI Tools](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,canva&theme=dark)
+
+
+--- 
 
 ## 🚀 Projects
 
