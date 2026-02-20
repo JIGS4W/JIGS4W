@@ -20,7 +20,8 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![My Skills](https://skillicons.dev/icons?i=js,python,sql)
+![My Skills](https://skillicons.dev/icons?i=js,python)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)
 
 ### 🎨 Frontend
 ![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind)
