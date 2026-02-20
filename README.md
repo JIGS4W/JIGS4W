@@ -1,30 +1,29 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Rapeeput+Srisakda;JIGS4W+DEVELOPER;Software+Engineering" />
-Software Engineering Student | Full-Stack Developer
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Rapeeput+Srisakda;JIGS4W+DEVELOPER;Software+Engineering" /></p>
 
-📍 Phayao, Thailand • 🎓 University of Phayao  
-📧 rapeeput060448@gmail.com  
+<p align="center">🎓 Software Engineering Student | @ University of Phayao (67)</p>
+
 
 ---
 
 
 ## Tech Stack
 
-## Languages
+### 🔥 Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java)
 
-## Frontend
+### Frontend
 ![Frontend](https://skillicons.dev/icons?i=vue,tailwind,next,react)
 
-## Backend
+### Backend
 ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,elysia,hono&theme=dark)
 
-## Database
+### ☁️ Database
 ![Database](https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase)
 
-## DevOps / Cloud
+### ☁️ DevOps / Cloud
 ![DevOps](https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare)
 
-## Tools / AI
+### 🤖 Tools / AI
 ![Tools](https://skillicons.dev/icons?i=vscode,figma)
 ![AI Tools](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,canva&theme=dark)
 
