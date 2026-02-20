@@ -19,32 +19,23 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-![My Skills](https://skillicons.dev/icons?i=js,python)
-![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)
+## 💻 Languages
+![Languages](https://skillicons.dev/icons?i=python,js)
 
-### 🎨 Frontend
-![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind)
+## 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=vue,react,tailwind)
 
-### ⚙️ Backend
-![My Skills](https://skillicons.dev/icons?i=nodejs)
-![My Skills](https://skillicons.dev/icons?i=bun,js,react)
+## ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,supabase)
 
-- Elysia (Bun)
-- Supabase
+## 🗄️ Database
+![Database](https://skillicons.dev/icons?i=mysql,postgres,sqlite)
 
-### 🗄 Database
-![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)
+## ☁️ DevOps / Cloud
+![DevOps](https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare)
 
-- SQLite (Cloudflare D1)
-
-### ☁️ DevOps / Tools
-![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel)
-
-- Cloudflare Workers  
-- VS Code, Figma  
-- AI Tools: ChatGPT, Claude, Gemini  
-
+## 🧰 Tools
+![Tools](https://skillicons.dev/icons?i=vscode,figma)
 ---
 
 ## 🚀 Projects
