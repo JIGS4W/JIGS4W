@@ -11,10 +11,10 @@
 ### 🔥 Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java)
 
-### Frontend
+### ⚡ Frontend
 ![Frontend](https://skillicons.dev/icons?i=vue,tailwind,next,react)
 
-### Backend
+### ⚡ Backend
 ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,elysia,hono&theme=dark)
 
 ### ☁️ Database
