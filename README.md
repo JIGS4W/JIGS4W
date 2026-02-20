@@ -1,6 +1,6 @@
-# Hi 👋 My name is Your Name
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=My%20Project&fontSize=40&fontColor=ffffff"/>
+# Hi 👋 My name is Rapeeput
+
 ## Stack
 
 ### Programming Language
