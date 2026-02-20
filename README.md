@@ -1,22 +1,37 @@
-# 🚀 My Project
+# ☕ Cafe POS System
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=150&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=180&section=header&text=Cafe%20POS%20System&fontSize=40&fontColor=ffffff"/>
 
-## 🌐 Demo
-https://your-project.vercel.app
+## 🌐 Live Demo
+👉 https://cafepos-system.vercel.app/
+
+---
 
 ## 📸 Preview
-![preview](https://your-image-link)
+![preview](https://your-screenshot-link)
 
-## ⚙️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind)
+---
 
 ## ✨ Features
-- Fast
-- Responsive
-- Clean UI
 
-## 📦 Installation
+- 🧾 จัดการออเดอร์แบบเรียลไทม์
+- ☕ ระบบเมนูเครื่องดื่ม
+- 💰 คำนวณราคาอัตโนมัติ
+- 📱 Responsive ใช้งานได้ทั้งมือถือและคอม
+- ⚡ โหลดเร็ว (Deploy บน Vercel)
+
+---
+
+## 🛠 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,sqlite)
+
+---
+
+## 🚀 Getting Started
+
 ```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
 npm install
 npm run dev
