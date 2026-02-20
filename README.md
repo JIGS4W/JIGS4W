@@ -3,6 +3,10 @@
 
 ## Stack
 
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ### Programming Language
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
