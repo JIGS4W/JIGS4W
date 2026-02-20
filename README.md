@@ -27,6 +27,7 @@
 
 ### ⚙️ Backend
 ![My Skills](https://skillicons.dev/icons?i=nodejs,Bun)
+![My Skills](https://skillicons.dev/icons?i=bun,js,react)
 
 - Elysia (Bun)
 - Supabase
