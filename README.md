@@ -2,9 +2,7 @@
 
 <p align="center">🎓 Software Engineering Student | @ University of Phayao (67)</p>
 
-
 ---
-
 
 ## Tech Stack
 
@@ -26,7 +24,6 @@
 ### 🤖 Tools / AI
 ![Tools](https://skillicons.dev/icons?i=vscode,figma)
 ![AI Tools](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,canva&theme=dark)
-
 
 
 --- 
@@ -57,28 +54,10 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub State
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIGS4W&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIGS4W&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=JIGS4W&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🎯 What I'm Looking For
-
-- 💼 Internship (Full-Stack / Web Developer)  
-- 🌱 Opportunities to grow in real-world development  
-- 🤝 Working with a team and learning from experienced developers  
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/JIGS4W  
-- Email: rapeeput060448@gmail.com  
-
----
-
-⭐ From [JIGS4W](https://github.com/JIGS4W)
+<p align="center">< Thanks for visiting /></p>
