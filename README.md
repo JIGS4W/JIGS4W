@@ -1,6 +1,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Rapeeput+Srisakda;JIGS4W+DEVELOPER;Software+Engineering" /></p>
 
-<p align="center">🎓 Software Engineering Student | @ University of Phayao (67)</p>
+<p align="center">🎓 Software Engineering | @ University of Phayao (67)</p>
 
 ---
 
