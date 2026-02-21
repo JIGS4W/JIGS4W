@@ -30,24 +30,30 @@
 
 ## 🚀 Projects
 
-### ☕ Cafe POS System
+#### ☕ Cafe POS System
 - Full-stack POS system for managing orders and sales  
 - Built with Vue.js + Elysia (Bun) + SQLite  
 - Includes admin dashboard and sales analytics  
 
-🔗 Live: https://cafepos-system.vercel.app/  
-🔗 GitHub: https://github.com/JIGS4W/cafe-pos-system  
+<p align="left">
+  <a href="https://cafepos-system.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-00C2FF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/JIGS4W/cafe-pos-system">
+    <img src="https://img.shields.io/badge/💻_Source_Code-000?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-### 👟 ShoeShop (E-commerce)
+#### 👟 ShoeShop (E-commerce)
 - Full-stack e-commerce platform with authentication  
 - Built with Vue.js + Supabase  
 - Features: search, filter, wishlist, admin dashboard  
 
 ---
 
-### 📚 SecondShelf (Book Exchange)
+#### 📚 SecondShelf (Book Exchange)
 - Web platform for sharing and exchanging books  
 - Built with HTML, CSS  
 - Features: wishlist, user profile, basic cart  
