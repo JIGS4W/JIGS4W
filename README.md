@@ -59,4 +59,6 @@
   <img src="https://streak-stats.demolab.com?user=JIGS4W&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">< Thanks for visiting /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=<+Thanks+for+visiting+/>" />
+</p>
