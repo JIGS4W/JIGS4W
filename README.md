@@ -53,13 +53,6 @@
 
 ---
 
-#### 📚 SecondShelf (Book Exchange)
-- Web platform for sharing and exchanging books  
-- Built with HTML, CSS  
-- Features: wishlist, user profile, basic cart  
-
----
-
 ### 📊 GitHub State
 
 <p align="center">
